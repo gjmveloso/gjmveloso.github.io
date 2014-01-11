@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Gustavo Veloso
+title:            Blog do Gustavo Veloso
 tagline:          'Posts aleatórios sobre carreira, tecnologia e empreendedorismo'
 description:      'Espaço para compartilhar ideias sobre carreira, tecnologia e empreendedorismo. Você também pode me encontrar no <a href="http://linkedin.com/in/gjmveloso" target="_blank">LinkedIn</a> e no <a href="http://twitter.com/gjmveloso">Twitter<a/>.'
 url:              http://gjmveloso.github.io
