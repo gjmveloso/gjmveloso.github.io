@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ultrapasse as tendências, foque nas premissas"
+comments: true
 ---
 
 Todo início de semana recebemos inúmeros posts dizendo quais serão as X tendências de TI para os próximos anos. É impressionante como, cada vez mais, **somos movidos por tendências**, muitas vezes deixando o presente em segundo plano.

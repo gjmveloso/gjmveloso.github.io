@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "V2MOM: O método de gerenciamento da Salesforce.com"
+comments: true
 ---
 
 Hoje pela manhã terminei de ler o excelente livro do CEO e fundador da [Salesforce.com](htt://salesforce.com), Marc Benioff. O livro [Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry](http://www.amazon.com/Behind-Cloud-Salesforce-com-Billion-Dollar-Company/dp/0470521163/ref=tmm_hrd_title_0) apresenta __111 tópicos__ (o número é uma alusão ao modelo de integração empresa-filantropia chamado 1-1-1 criado por Benioff) que mostram as principais decisões que a Salesforce teve que tomar para se tornar uma empresa com receitas anuais de mais de US$ 1 bilhão e como a forma utilizada por eles pode servir para uma grande variedade de negócios.
