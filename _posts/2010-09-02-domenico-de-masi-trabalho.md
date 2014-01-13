@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Domenico De Masi e o trabalho
+title: "Domenico De Masi e o trabalho"
 ---
 
 No dia 31 de agosto tive o privilégio de estar na solenidade de abertura da [Feira do Empreendedor do SEBRAE-MG](http://www.sebraemg.com.br/feiradoempreendedor/), que por sinal está muito bem organizada, e pude ouvir as sábias reflexões do sociólogo italiano Domenico De Masi, que sabe como ninguém explicar as mudanças no mercado de trabalho e na forma como trabalhamos.
@@ -41,8 +41,13 @@ __10. Qualidade de vida__
 Ao final da palestra, De Masi deixou algumas sugestões para os espectadores empreendedores:
 
 * Acredite da genialidade coletiva. Grupos criativos funcionam melhor quando possuem um objetivo comum e um líder carismático;
+
 * Viva com entusiasmo;
+
 * Possua uma leveza consciente do seu destino;
+
 * Conserve sua jovialidade;
+
 * Seja flexível;
+
 * Mantenha a humanidade nas relações.

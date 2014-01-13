@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Definindo o tamanho da sua empresa
+title: "Definindo o tamanho da sua empresa"
 ---
 
 Recorrentemente me deparo em discussões envolvendo o tamanho, muitas vezes, o potencial tamanho de uma nova empresa/projeto. Empreendedores, principalmente os de primeira viagem, vislumbrados pelo fato de estarem iniciando no fascinante mundo do empreendedorismo, inflam-se de tal forma que parecem desinformados e/ou arrogantes. Vejam bem, isso não tem nada a ver com pensar grande, isso tem a ver com agir de uma maneira incompatível com sua real situação atual. O que pode ser muito perigoso.
