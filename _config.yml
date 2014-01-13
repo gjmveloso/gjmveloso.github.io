@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 
 # Permalinks
@@ -9,11 +9,14 @@ permalink:        pretty
 title:            Blog do Gustavo Veloso
 tagline:          'Posts aleatórios sobre carreira, tecnologia e empreendedorismo'
 description:      'Espaço para compartilhar ideias sobre carreira, tecnologia e empreendedorismo. Você também pode me encontrar no <a href="http://linkedin.com/in/gustavoveloso" target="_blank">LinkedIn</a> e no <a href="http://twitter.com/gjmveloso">Twitter<a/>.'
-url:              http://gjmveloso.github.io
+url:              http://www.gustavoveloso.com
 
 author:
   name:           'Gustavo Veloso'
-  url:            https://twitter.com/gjmveloso
+  url:            http://twitter.com/gjmveloso
 
 paginate:         5
+
+kramdown:
+  input: GFM
 
