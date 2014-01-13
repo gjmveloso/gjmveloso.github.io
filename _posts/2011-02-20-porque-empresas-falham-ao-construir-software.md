@@ -9,7 +9,7 @@ E não vou parar tão cedo ;)
 
 Nesse final de semana fiquei pensando em por que até hoje, com várias ferramentas, técnicas e práticas para se produzir um bom software, tantos projetos falham por erros já tão batidos e evitáveis. Não cheguei a nenhuma resposta, mas fiz várias perguntas.
 
->AVISO: O contexto aqui são as tradicionais fábricas de software e os velhos departamentos de TI das empresas cuja a atividade fim> está longe de ser tecnologia.
+>AVISO: O contexto aqui são as tradicionais fábricas de software e os velhos departamentos de TI das empresas cuja a atividade fim está longe de ser tecnologia.
 
 * Por que as __empresas__ insistem em colocar o __cliente no papel de vilão__?
 * Por que as __empresas__ insistem em achar que __requisitos não vão mudar__?
