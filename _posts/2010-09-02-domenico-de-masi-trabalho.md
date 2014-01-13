@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Domenico De Masi e o trabalho"
+comments: true
 ---
 
 No dia 31 de agosto tive o privilégio de estar na solenidade de abertura da [Feira do Empreendedor do SEBRAE-MG](http://www.sebraemg.com.br/feiradoempreendedor/), que por sinal está muito bem organizada, e pude ouvir as sábias reflexões do sociólogo italiano Domenico De Masi, que sabe como ninguém explicar as mudanças no mercado de trabalho e na forma como trabalhamos.

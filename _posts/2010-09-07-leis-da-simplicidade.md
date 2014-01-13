@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "As Leis da Simplicidade"
+comments: true
 ---
 
 Hoje terminei de ler o pequeno e profundo livro ["As Leis da Simplicidade"](http://compare.buscape.com.br/as-leis-da-simplicidade-john-maeda-8599560093.html), de John Maeda.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "E se você fosse a sua empresa?"
+comments: true
 ---
 
 Há quase quatro anos fui apresentado ao fascinante mundo do empreendedorismo. De lá para cá venho me debatendo na tentativa de mudar o _mindset_ de funcionário, dentre outros a aversão ao risco (financeiro, pessoal, etc). Não é fácil mudar, confesso.
