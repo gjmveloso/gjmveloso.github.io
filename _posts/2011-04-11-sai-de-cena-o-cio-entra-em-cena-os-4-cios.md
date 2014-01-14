@@ -4,7 +4,7 @@ title: "Sai de cena o CIO. E entra em cena os novos 4 CIOs"
 comments: true
 ---
 
-Há duas edições atrás, a revista EXAME já alertava sobre a queda do prestígio dos CIOs (_Chief Information Officers_), os chefões da TI em uma empresa. Além de perderem o prestígio gradualmente, sendo vistos como negociadores de contratos apenas, os CIOs antigos parecem ter perdido o rumo, e deixaram de desempenhar um papel estratégico nas empresas.
+Há duas edições atrás, a revista EXAME já alertava sobre a queda do prestígio dos CIOs - _Chief Information Officers_, os chefões da TI em uma empresa. Além de perderem o prestígio gradualmente, sendo vistos como negociadores de contratos apenas, os CIOs antigos parecem ter perdido o rumo, e deixaram de desempenhar um papel estratégico nas empresas.
 
 Tenho alguns palpites do por que isso ocorreu, o principal deles é o fato de __TI ser cada vez mais um assunto natural nas empresas__. TI já não pode ser o típico departamento de TI, daqueles que ainda lembram os velhos CPDs (Centros de Processamento de Dados). Hoje __o executivo de TI precisa ser muito mais multidisciplinar__.
 
