@@ -1,6 +1,9 @@
+exclude: [vendor]
 # Dependencies
-markdown:         kramdown
+markdown:         redcarpet
 highlighter:      pygments
+redcarpet:
+  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
 # Permalinks
 permalink:        pretty
