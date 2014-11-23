@@ -28,14 +28,14 @@ Segundo Benioff, o método foi criado a partir do seu descontentamento com os fr
 
 ###Objetivo
 
-O meta do V2MOM é possibilitar que toda a organização se comunique e saiba o que está acontecendo, atingindo um total alinhamento entre as pessoas, que para Benioff é o segredo do sucesso da Salesforce. 
+O meta do V2MOM é possibilitar que toda a organização se comunique e saiba o que está acontecendo, atingindo um total alinhamento entre as pessoas, que para Benioff é o segredo do sucesso da Salesforce.
 
 Outras formas de medir, como os KPIs, segundo Marc, não conseguem acompanhar um ritmo de intensa adaptação.
 
 ###Implementação
 
 O V2MOM deve ser implementado de uma maneira bem peculiar, misturando uma abordagem _top down_ com outra _bottom up_.
- 
+
 As perguntas acima devem ser respondidas, __priorizando__ as respostas.
 
 * Na Salesforce o próprio Marc cria um V2MOM e depois o apresenta para seus executivos mais próximos;
@@ -55,7 +55,7 @@ Dessa forma, segundo Benioff, todos os funcionários conseguem visualizar sua im
 
 Abaixo segue o primeiro V2MOM da Salesforce, criado por Marc em 12 de abril de 1999 em um grande envelope da American Express.
 
-__Visão:__ 
+__Visão:__
 
 Criar rapidamente uma companhia de internet de automação para ponto de venda de classe mundial.
 

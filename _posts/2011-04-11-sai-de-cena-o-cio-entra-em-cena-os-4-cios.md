@@ -27,4 +27,4 @@ O futuro está nos dados. Esse executivo será responsável por pegar os dados c
 Esses executivos já estão por aí, já que a palavra de ordem nas empresas é inovar. "Inove, ou serás inovado", como diz o [Bernardo Porto](http://www.bernardoporto.com/). Esses executivos serão responsáveis por identificar tecnologias disruptivas e, principalmente, por encontrar maneiras de aplicá-las no ambiente corporativo.
 
 
-Fonte: [ReadWriteWeb Enterprise](http://www.readwriteweb.com/enterprise/2011/03/four-new-types-of-cio-for-the.php)
+>Fonte: [ReadWriteWeb Enterprise](http://www.readwriteweb.com/enterprise/2011/03/four-new-types-of-cio-for-the.php)

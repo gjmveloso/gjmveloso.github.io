@@ -14,7 +14,7 @@ Para mim, empreendedorismo se tornou mais do que a vontade de ser dono do própr
 
 Por que não canalizar toda essa energia, entusiasmo e experiência que adquiri nos últimos anos? **A hora é agora!**
 
-Também não podia deixar de registrar meus agradecimentos. 
+Também não podia deixar de registrar meus agradecimentos.
 
 * Ao pessoal do [Saia do Lugar](http://www.saiadolugar.com.br/) e do [Empreendecast](http://www.empreendecast.com.br/). Vocês me ajudaram a enxergar que o empreendedorismo é um caminho viável e que tem tudo para ser extremamente gratificador. Fontes primárias de inspiração e conhecimento.
 

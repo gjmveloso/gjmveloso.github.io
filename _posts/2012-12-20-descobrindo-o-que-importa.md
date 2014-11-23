@@ -1,6 +1,12 @@
+---
+layout: post
+title: "Descobrindo o que importa"
+comments: true
+---
+
 Que ano! Se tivesse sonhado com um ano perfeito profissional e pessoalmente certamente não conseguiria chegar nem perto do que o ano de 2012 representou pra mim. __Sou fundamentalmente grato às pessoas que possibilitam toda essa rica experiência, até aquelas que hoje estão distantes__.
 
-Exatamente há um ano atrás estava indo no Consulado do Chile para buscar meu visto de residência temporária para participar do [Start-Up Chile](http://www.startupchile.org/), o programa de aceleração de startups globais do governo chileno. Já compartilhei, menos do que gostaria, [algumas](http://gustavoveloso.posterous.com/um-ano-depois-licoes-aprendidas-depois-do-mer) das [muitas experiências](http://gustavoveloso.posterous.com/chile-2-meses-e-contando) transformadoras que passei por lá. Além de me apaixonar pelo país em pouco mais de um mês de minha estadia, lá conheci pessoas que com absoluta certeza continuarão fazendo parte da minha vida pessoal e profissional. Mais do que isso, a sensação é de que parte importante da minha história está sendo escrita em espanhol.
+Exatamente há um ano atrás estava indo no Consulado do Chile para buscar meu visto de residência temporária para participar do [Start-Up Chile](http://www.startupchile.org/), o programa de aceleração de startups globais do governo chileno. Já compartilhei, menos do que gostaria, [algumas](2012/05/18/um-ano-depois-licoes-aprendidas) das [muitas experiências](2012/03/05/chile-2-meses-e-contando) transformadoras que passei por lá. Além de me apaixonar pelo país em pouco mais de um mês de minha estadia, lá conheci pessoas que com absoluta certeza continuarão fazendo parte da minha vida pessoal e profissional. Mais do que isso, a sensação é de que parte importante da minha história está sendo escrita em espanhol.
 
 O objetivo desse post é __simplificar e chegar no óbvio__, muitas vezes escondido atrás de uma nuvem cada vez maior de listas do que fazer para "conquistar amigos e influenciar pessoas", os X passos para criar um negócio rentável, as Y disciplinas para construir uma carreira de sucesso. Não estou aqui para criticar toda essa industria de conhecimento, até por que sou um consumidor de quase tudo isso (o _best seller_ do Dale Carnegie eu passo). Entretanto, depois de 3 anos passivamente absorvendo tudo isso e com apenas 1 tentando praticar toda essa mistura ativamente, __“descobri” o óbvio: embora útil, o que amarra tudo isso em movimentos consistentes e duradouros – longe de serem seguros – não é ser um expert em nada, é ser apenas feliz, principalmente nos curtos e simples momentos__.
 

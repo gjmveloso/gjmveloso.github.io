@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Why Everyone Hates MongoDB?"
+comments: true
+---
+
 ##Because almost everyone jumps into it thinking it is the Holy Grail or The Silver Bullet.
 
 
@@ -13,4 +19,4 @@ Read a lot about [MongoDB failures on specific scenarios](https://www.google.com
 MongoDB is just an option. A really good one. But one size does not fit all.
 
 
-_[Update: Look at some [findings about this post been featured on Hacker News front page](http://gustavoveloso.posterous.com/hacker-news-effect-findings-on-been-featured) for a few minutes]_
+>_[Update: Look at some [findings about this post been featured on Hacker News front page](http://gustavoveloso.posterous.com/hacker-news-effect-findings-on-been-featured) for a few minutes]_
