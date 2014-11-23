@@ -12,7 +12,7 @@ Quero separar este post em duas partes indepentendes: a primeira parte é falar 
 
 Quando fomos selecionados para vir pra cá, já estávamos com um planejamento de curto prazo razoavelmente bem definido. Nesses primeiros meses aqui estamos terminando de aprimorar nosso produto e eu, que antes estava focado em vendas, estou mergulhando fundo em Python, Django, MongoDB, e outras _cositas más_.
 
-Em outro momento, escrevi sobre a minha retomada profissional, ao decidir voltar de uma vez por todas para o lado de quem suja as mãos com código, [atacando três erros que havia cometido](http://gustavoveloso.posterous.com/carreira-gestao-foco-e-diversao). Hoje tenho, mais uma vez, a convicção plena de que a escolha que fiz há 6 anos atrás foi mais que acertada e que construir produtos de software é o que eu realmente gosto de fazer. De verdade, mesmo tendo um pouco mais de 2 anos de formado, me sinto realizado profissionalmente. Não por que fiquei rico ou por que construí uma empresa de sucesso. Simplesmente por que sei que a base que estou construindo está se tornando sólida o suficiente para me levar onde meu empenho, esforço, suor e trabalho permitirem.
+Em outro momento, escrevi sobre a minha retomada profissional, ao decidir voltar de uma vez por todas para o lado de quem suja as mãos com código, [atacando três erros que havia cometido](2010/10/23/carreira-gestao-foco-diversao). Hoje tenho, mais uma vez, a convicção plena de que a escolha que fiz há 6 anos atrás foi mais que acertada e que construir produtos de software é o que eu realmente gosto de fazer. De verdade, mesmo tendo um pouco mais de 2 anos de formado, me sinto realizado profissionalmente. Não por que fiquei rico ou por que construí uma empresa de sucesso. Simplesmente por que sei que a base que estou construindo está se tornando sólida o suficiente para me levar onde meu empenho, esforço, suor e trabalho permitirem.
 
 Isso é o que verdadeiramente importa e é o que dura mais tempo.
 
@@ -36,4 +36,4 @@ Hoje, minha resposta é mais simples: __tinha que ser agora. Tinha que ser no Ch
 
 <iframe src="//player.vimeo.com/video/36519586?color=ff9933" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/36519586">a story for tomorrow.</a> from <a href="http://vimeo.com/gnarlybay">gnarly bay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-(Já assisti este vídeo sete vezes e recomendo que você assista, pelo menos, duas)
+>(Já assisti este vídeo sete vezes e recomendo que você assista, pelo menos, duas)

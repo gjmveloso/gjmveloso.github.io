@@ -6,7 +6,7 @@ comments: true
 
 Recorrentemente me deparo em discussões envolvendo o tamanho, muitas vezes, o potencial tamanho de uma nova empresa/projeto. Empreendedores, principalmente os de primeira viagem, vislumbrados pelo fato de estarem iniciando no fascinante mundo do empreendedorismo, inflam-se de tal forma que parecem desinformados e/ou arrogantes. Vejam bem, isso não tem nada a ver com pensar grande, isso tem a ver com agir de uma maneira incompatível com sua real situação atual. O que pode ser muito perigoso.
 
-###Definindo o tamanho da sua empresa pelo que ela vale e não pelo tanto que você gosta dela
+####Definindo o tamanho da sua empresa pelo que ela vale e não pelo tanto que você gosta dela
 
 Para simplificar, ignorando outras métricas não menos importantes, vejamos a classificação de porte de uma empresa baseada em seu faturamento bruto anual, salvo engano essa classificação é utilizada pelo BNDES para classificar empreendimentos, independentemente do setor de atuação:
 
