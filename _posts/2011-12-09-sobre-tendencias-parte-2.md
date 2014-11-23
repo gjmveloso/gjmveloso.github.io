@@ -4,7 +4,7 @@ title: "Sobre tendências, parte 2"
 comments: true
 ---
 
-Há mais de um ano fiz um post bem mais ou menos sobre essa [mania que temos de ficar tentando adivinhar o futuro](2010/08/24/ultrapasse-tendencias), quase sempre nos esquecendo de premissas básicas. Eu mesmo, contraditoriamente, no final do ano passado, fiz uma [lista de previsões para este ano](2010/12/30/previsoes-2011), pura brincadeira.
+Há mais de um ano fiz um post bem mais ou menos sobre essa [mania que temos de ficar tentando adivinhar o futuro](/2010/08/24/ultrapasse-tendencias), quase sempre nos esquecendo de premissas básicas. Eu mesmo, contraditoriamente, no final do ano passado, fiz uma [lista de previsões para este ano](/2010/12/30/previsoes-2011), pura brincadeira.
 
 Não sou contra manifestações __pessoais__ à la Mãe Dinah, é divertido ler o que você achava que ia acontecer no futuro. O grande problema, ponto central desse post, é levar esses chutes, muitas vezes dados com interesses duvidosos, para o público. Isso é especialmente irrelevante na área de tecnologia, que é, cada vez mais, imprevisível. Há 5 anos atrás, quase não existia serviços de computação nas nuvens. Hoje, ao contrário do que grupos de mídia "especializados" publicam, _cloud computing_ não é nenhuma tendência, é realidade. Há 5 anos atrás, o iPhone estava pra ser lançado. Hoje, o iPad é tido como o _gadget_ que vai acabar com PCs, com o Desktop, com a Microsoft, a Dell e a HP. A tal _Web 2.0_, que engatinhava há 5 anos atrás, hoje vai aniquilar, a curto prazo, os Sistemas Operacionais.
 
