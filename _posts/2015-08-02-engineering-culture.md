@@ -18,7 +18,7 @@ Amazon, Google, Facebook, Twitter, Rackspace, Netflix and Spotify have really go
 
 <iframe src="//player.vimeo.com/video/94950270" width="500" height="312" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-#### Common foundation of great engineering cultures
+## Common foundation of great engineering cultures
 
 **1. Trust**
 
