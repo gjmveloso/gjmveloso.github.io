@@ -34,6 +34,6 @@ Esses dias fiquei lembrando de quando, no 1º ano do 2º grau, meus pais insisti
 
 Hoje, minha resposta é mais simples: __tinha que ser agora. Tinha que ser no Chile!__
 
-<iframe src="//player.vimeo.com/video/36519586?color=ff9933" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/36519586">a story for tomorrow.</a> from <a href="http://vimeo.com/gnarlybay">gnarly bay</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://player.vimeo.com/video/36519586' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 >(Já assisti este vídeo sete vezes e recomendo que você assista, pelo menos, duas)
