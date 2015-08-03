@@ -28,7 +28,7 @@ __Software Engineering is a perfect mix of science and craft__. To promote craft
 
 **2. Shared sense of responsibility**
 
-Companies with strong cultures have employees that act as founders. They aren't there only for money. They're moved by a purpose and by improving his craft. Quoting one of the signs at Facebook HQ, _"no problem is someone else's problem"_. It's that time someone provide a link to [Daniel Pink's 2009 TED Talk](https://www.youtube.com/watch?v=rrkrvAUbU9Y), right?
+Companies with strong cultures have __employees that act as founders__. They aren't there only for money. They're moved by a purpose and by improving his craft. Quoting one of the signs at Facebook HQ, _"no problem is someone else's problem"_. It's that time someone provide a link to [Daniel Pink's 2009 TED Talk](https://www.youtube.com/watch?v=rrkrvAUbU9Y), right?
 
 **3. Practice-oriented**
 
@@ -36,8 +36,8 @@ The way people conceive, build and deliver software is constantly changing. The 
 
 **4. Tailor-made**
 
-_"One size does not fit all"_ and ["There is no silver bullet"](https://en.wikipedia.org/wiki/No_Silver_Bullet) are classic quotes in Software Engineering. They're also true for establishing a engineering culture. Well known engineering cultures are a good point of start and serve more as an inspiration than as a guideline. Before start implementing your engineering culture take a break and discover what makes your organization unique.
+_"One size does not fit all"_ and ["There is no silver bullet"](https://en.wikipedia.org/wiki/No_Silver_Bullet) are classic quotes in Software Engineering. They're also true for establishing a engineering culture. __Well known engineering cultures are a good point of start and serve more as an inspiration than as a guideline__. Before start implementing your engineering culture __take a break and discover what makes your organization unique__.
 
 **5. Diversity**
 
-A strong culture generally started on early stages of a company and does not change a lot along the way. Counterintuitively how do you implement your culture and how your culture touches all daily activities of your company could change all the time until you get it right. And that's fine. Implementing powerful cultures requires an environment that truly embraces diversity of all kinds. **Diversity is the key for keeping your culture alive and updated**.
+A strong culture generally started on early stages of a company and does not change a lot along the way. Counterintuitively how do you implement your culture and how your culture touches all daily activities of your company could change all the time until you get it right. And that's fine. Implementing powerful cultures requires an environment that truly embraces diversity of all kinds. Diverse people together drives innovation. **Diversity is the key for keeping your culture alive and updated**.
