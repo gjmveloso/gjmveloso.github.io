@@ -32,7 +32,7 @@ Companies with strong cultures have __employees that act as founders__. They are
 
 **3. Practice-oriented**
 
-The way people conceive, build and deliver software is constantly changing. The _state of the art_ and the _status quo_ simply does not exist. **Pragmatic cultures works. Dogmas don't**.
+The way people conceive, build and deliver software is constantly changing. _State of the art_ and _status quo_ simply do not exist. **Pragmatic cultures works. Dogmas don't**.
 
 **4. Tailor-made**
 
