@@ -5,7 +5,7 @@ comments: true
 ---
 
 Since [Mark Zuckerberg's 2012 annual letter](http://www.wired.com/2012/02/zuck-letter/)
-to Facebook investors I've been interested on how [culture drives businesses](http://www.slideshare.net/Bufferapp/buffer-culture-05).
+to Facebook investors I've been interested on how [culture drives businesses](http://www.slideshare.net/Bufferapp/buffer-culture-06-with-a-change-to-be-a-no-ego-doer).
 Especially, _tech businesses_.
 
 Since last year after reading [Dave Thomas' post about it's time to kill agile](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/)
@@ -41,3 +41,8 @@ _"One size does not fit all"_ and ["There is no silver bullet"](https://en.wikip
 **5. Diversity**
 
 A strong culture generally started on early stages of a company and does not change a lot along the way. Counterintuitively how do you implement your culture and how your culture touches all daily activities of your company could change all the time until you get it right. And that's fine. Implementing powerful cultures requires an environment that truly embraces diversity of all kinds. Diverse people together drives innovation. **Diversity is the key for keeping your culture alive and updated**.
+
+
+_Update (8/31/15):_ After publishing this post I've found two new articles related to engineering culture that worth to be added here. The first is about [LinkedIn's Kevin Scott on how he structured engineering teams](http://firstround.com/review/how-i-structured-engineering-teams-at-linkedin-and-admob-for-success/) (Reading this I remembered a really good article from 2013 talking about [how LinkedIn changed their development cycle to grow their business](http://www.wired.com/2013/04/linkedin-software-revolution/) that worth reading).
+
+The second is about [5 great tech companies cultures](http://www.inc.com/ed-zitron/5-tech-companies-with-great-cultures.html). [Buffer](http://www.slideshare.net/Bufferapp/buffer-culture-06-with-a-change-to-be-a-no-ego-doer) and [Git](http://zachholman.com/posts/how-github-works/)[Hub](http://zachholman.com/posts/how-github-works/) are my favorites.
