@@ -26,7 +26,7 @@ Everything starts with a good console. Mac come with a lot of languages and tool
 
 Some parts of Xcode will be required by [Homebrew](http://brew.sh/) but as I wanted to start playing with _iOS_ Developmemt I need to install the complete version. Everything available from the App Store. Swift Playground is remarkable and fun. The IDE is so clear and focused that sometimes I think something is missing. A complete new different way to write code that is fun and easy.
 
-####Additioal software####
+####Additional software####
 
 It's also good to mention that additional software are also vastly available. It comes with Pages, Keynote and Numbers but you can also install [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) which is really well crafted for OS X. Chrome, Skype and Spotify (for my long programming sessions) are available as expected.
 
