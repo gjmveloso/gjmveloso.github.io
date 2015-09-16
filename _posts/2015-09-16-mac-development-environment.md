@@ -28,10 +28,10 @@ Some parts of Xcode will be required by [Homebrew](http://brew.sh/) but as I wan
 
 ####Additioal software####
 
-It's also good to mention that additional software is also vastly available. It comes with Pages, Keynote and Numbers but you can also install LibreOffice which is really well crafted for OS X. Chrome, Skype and Spotify (for my long programming sessions) are available as expected.
+It's also good to mention that additional software are also vastly available. It comes with Pages, Keynote and Numbers but you can also install [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) which is really well crafted for OS X. Chrome, Skype and Spotify (for my long programming sessions) are available as expected.
 
 ####Bonus: iOS Learning Resources####
 
 There are a lot of _iOS_ Development courses available on [Udacity](https://www.udacity.com/courses/ios) and [Lynda](http://www.lynda.com/search?q=ios). Additionally, some high-quality and free courses are available on [iTunes U](https://itunes.apple.com/app/itunes-u/id490217893?mt=8).
 
-Also well written official [reference books for Swift](https://itunes.apple.com/book/swift-programming-language/id881256329?mt=11) and [Cocoa](https://itunes.apple.com/book/using-swift-cocoa-objective/id888894773?mt=11) are available on iBooks Store for free. I got the reference books and also enrolled to [PUCRS' iOS Development in Swift]( https://itunes.apple.com/course/ios-development-in-swift/id949983067) - a carefully series of video lessons that are on my native language (with English subtitles available) that worth watching. 
+Also well written official [reference books for Swift](https://itunes.apple.com/book/swift-programming-language/id881256329?mt=11) and [Cocoa](https://itunes.apple.com/book/using-swift-cocoa-objective/id888894773?mt=11) are available on iBooks Store for free. I got the reference books and also enrolled to [PUCRS' iOS Development in Swift]( https://itunes.apple.com/course/ios-development-in-swift/id949983067) - a carefully series of video lessons that are on my native language (with English subtitles available) that worth watching.
