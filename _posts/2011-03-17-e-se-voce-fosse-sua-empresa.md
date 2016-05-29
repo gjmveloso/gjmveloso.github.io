@@ -12,15 +12,15 @@ Nossa carreira também pode ser vista como uma organização. É claro que com a
 
 Como nos clássicos livros de negócios, toda empresa tem sua missão, visão e valores bem definidos. Então vamos fazer isso para nós mesmos.
 
-####Missão
+#### Missão
 
 Buscar __continuamente__ novas formas de entregar softwares melhores, misturando __ciência e arte__ na medida certa, focado no __valor__ gerado pelo trabalho e percebido pelo cliente.
 
-####Visão
+#### Visão
 
 Até 2013 ser reconhecido como um profissional de software que alia uma __sólida base de conhecimentos formais__ com a __agilidade__ típica da minha geração, sempre disposto a encarar __desafios__ complexos e __experimentar__ novas formas de entregar software de alta __qualidade__ e grande __valor__ percebido.
 
-####Valores
+#### Valores
 
 * __Paixão:__ Estar envolvido em projetos de software, por definição, já é extremamente gratificante e motivador. Desde os 14 anos jamais passou pela minha cabeça fazer outra coisa profissionalmente que não software.
 

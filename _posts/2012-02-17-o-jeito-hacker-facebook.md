@@ -28,23 +28,23 @@ Para garantir que todos os nossos engenheiros compartilham dessa visão exigimos
 
 Os exemplos acima são todos relacionados com engenharia mas nós condensamos esses princípios em __cinco valores principais__ para direcionar como rodamos o Facebook:
 
-###Foco no Impacto
+### Foco no Impacto
 
 Se queremos ter o maior impacto possível a melhor maneira de fazer isso é __garantir que estamos sempre focados em resolver os problemas mais importantes__. Soa simples mas nós achamos que a maior parte das empresas fazem isso de maneira pobre e perdem muito tempo. Esperamos que todos no Facebook sejam bons em encontrar os maiores problemas para trabalharem.
 
-###Mova-se Rápido
+### Mova-se Rápido
 
 Nos movendo rapidamente, __estamos aptos a construir mais coisas e aprender mais rápido__. Entretanto, como a maior parte das empresas crescem, elas vão se tornando lentas porque __estão com mais medo de cometerem erros do que de perderem oportunidades por se moverem tão devagar__. Temos uma frase: __"Mova-se rápido e quebre as coisas"__. A ideia é que __se você nunca quebrar nada provavelmente não está se movendo rápido o suficiente__.
 
-###Seja Ousado
+### Seja Ousado
 
 Construir coisas grandiosas significa correr riscos. Isso pode ser assustador e impede que a maior parte das empresas façam coisas ousadas como deveriam. O ponto é, __em um mundo que muda tão depressa você seguramente irá fracassar se você não correr nenhum risco__. Temos uma outra frase: __"Não há nada mais arriscado do que não correr risco algum"__. Nós incentivamos todo mundo a tomar decisões ousadas, mesmo que isso signifique estar errado algumas vezes.
 
-###Seja Aberto
+### Seja Aberto
 
 Acreditamos que um mundo mais aberto é um mundo melhor porque pessoas com mais informação podem tomar melhores decisões e podem ter maior impacto. Isso também vale para a forma que giramos nossa empresa. Trabalhamos duro para __garantir que todos no Facebook tenham acesso a maior quantidade de informação possível sobre cada parte da empresa__, assim eles podem __tomar as melhores decisões e terem o maior impacto__.
 
-###Construa Valor Social
+### Construa Valor Social
 
 Mais uma vez, o Facebook existe para tornar o mundo mais aberto e conectado, não apenas para construir uma empresa. Nós esperamos que todos no Facebook foquem todos os dias em como construir valor de verdade para o mundo em tudo aquilo que eles fazem.
 

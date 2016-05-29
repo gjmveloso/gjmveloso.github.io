@@ -12,7 +12,7 @@ Desde pequeno, somos acostumados a levar todas as questões para o lado excluden
 
 Acontece que nem todas as respostas são tão fáceis assim. Muitas vezes a resposta certa realmente é depende. E isso nada tem a ver com ficar em cima do muro, apenas que nem sempre é questão de estar certo ou errado.
 
-###Empreender ou não empreender?
+### Empreender ou não empreender?
 
 Passados exatos dois meses desde que tomei a decisão de largar um bom emprego para me dedicar ao propósito de empreender de fato, com tudo aquilo a que se tem direito (inclusive a parte que não sai em revista), por várias vezes me deparei na situação de tentar explicar para as pessoas os motivos da minha decisão. Alguns, principalmente os mais velhos, ou os que estão distantes do mercado de tecnologia, acharam que eu tinha perdido o juízo. Outros me encararam como um exemplo a ser seguido, do herói, do bem sucedido, da historinha que a gente se acostumou a ver na TV. Nesse caso, ambos estavam errados.
 

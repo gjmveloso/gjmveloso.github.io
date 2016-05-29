@@ -4,7 +4,7 @@ title: "Why Everyone Hates MongoDB?"
 comments: true
 ---
 
-##Because almost everyone jumps into it thinking it is the Holy Grail or The Silver Bullet.
+## Because almost everyone jumps into it thinking it is the Holy Grail or The Silver Bullet.
 
 
 

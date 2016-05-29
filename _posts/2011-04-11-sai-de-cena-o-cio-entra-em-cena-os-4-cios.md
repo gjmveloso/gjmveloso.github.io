@@ -10,19 +10,19 @@ Tenho alguns palpites do por que isso ocorreu, o principal deles é o fato de __
 
 Pois bem, antes de enterrar os CIOs já tem gente redefinindo o conceito para o cenário atual. Em um paper da [Constellation Research](http://www.constellationrg.com/), o papel do CIO foi quebrado em quatro _personas_.
 
-####Chief Infrastructure Officer
+#### Chief Infrastructure Officer
 
 Esse executivo fará muito do que é esperado de um CIO moderno: reduzir custos de infraestrutura, gerenciar tecnologias legadas e garantir que as operações de TI estejam em ordem. As prioridades: acabar com os _shelfwares_, aqueles softwares que ficam enconstados nos servidores sem que uma alva viva os utilize, adotar virtualização e tecnologias na nuvem e renegociar contratos.
 
-####Chief Integration Officer
+#### Chief Integration Officer
 
 Esse executivo será o responsável por conectar os vários sistemas de TI. Uma tarefa fundamental aqui é realizar a ponte entre os sistemas legados e os serviços na nuvem.
 
-####Chief Intelligence Officer
+#### Chief Intelligence Officer
 
 O futuro está nos dados. Esse executivo será responsável por pegar os dados certos, das pessoas certas e dos dispositivos certos. As prioridades incluem estabelecer e mensurar os indicadores-chave de desempenho (KPIs), aprimorar a qualidade dos dados e escolher as ferramentas certas de _business intelligence_ e análise.
 
-####Chief Inovation Officer
+#### Chief Inovation Officer
 
 Esses executivos já estão por aí, já que a palavra de ordem nas empresas é inovar. "Inove, ou serás inovado", como diz o [Bernardo Porto](http://www.bernardoporto.com/). Esses executivos serão responsáveis por identificar tecnologias disruptivas e, principalmente, por encontrar maneiras de aplicá-las no ambiente corporativo.
 

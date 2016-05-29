@@ -8,7 +8,7 @@ After read the excellent blog post from Dan McKinley on his blog about [why Mong
 
 This blog is not commercial nor related to my company. It's just a personal space which I write about important moments related to my young career and my first steps on the entrepreneurial world. __Just to have a historical path for me and go back on them when I'm making the same mistakes I've made on the past__. All other posts are in portuguese, my native language as [I'm Brazilian](http://9gag.com/gag/436601).
 
-###Findings:
+### Findings:
 
 * The __average number of daily unique visitors__ from the previous six months was 3. On the last two days, the number of __unique visitors jumped to 8,426__. 2,808x more people visiting this humble personal blog.
 

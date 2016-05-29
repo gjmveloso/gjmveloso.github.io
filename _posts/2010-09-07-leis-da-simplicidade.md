@@ -1,4 +1,4 @@
----
+ ---
 layout: post
 title: "As Leis da Simplicidade"
 comments: true
@@ -10,7 +10,7 @@ O livro é um verdadeiro passeio no profundo mundo da simplicidade. O livro é e
 
 Apenas como registro, transcrevo as dez leis e as três soluções propostas por Maeda.
 
-###Leis
+### Leis
 
 __1. Reduzir:__ A maneira mais simples de alcançar a simplicidade é por meio de uma redução conscienciosa;
 
@@ -32,7 +32,7 @@ __9. Fracasso:__ Algumas coisas nunca podem ser simples;
 
 __10. A Única:__ A simplicidade consiste em subtrair o óbvio e acrescentar o significativo.
 
-###Soluções
+### Soluções
 
 __1. Distanciamento:__ Mais parece menos simplesmente afastando-se para bem longe;
 

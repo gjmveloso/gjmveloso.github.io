@@ -8,7 +8,7 @@ Hoje, exatamente, completo o segundo mês no Chile. Para os que não sabem, a [D
 
 Quero separar este post em duas partes indepentendes: a primeira parte é falar sobre a experiência profissional e a segunda sobre a experiência pessoal. __No final, obviamente, uma está conectada à outra__.
 
-###Profissional
+### Profissional
 
 Quando fomos selecionados para vir pra cá, já estávamos com um planejamento de curto prazo razoavelmente bem definido. Nesses primeiros meses aqui estamos terminando de aprimorar nosso produto e eu, que antes estava focado em vendas, estou mergulhando fundo em Python, Django, MongoDB, e outras _cositas más_.
 
@@ -20,7 +20,7 @@ Aqui no Start-Up Chile estou tendo a oportunidade de ouvir e conversar diariamen
 
 __O [contato pessoal direto](http://smallactsmanifesto.org/) é tão intenso e diversificado que os pontos não tão positivos e burocráticos são diminuídos a ponto de serem quase esquecidos. Tornam-se irrelevantes__.
 
-###Pessoal
+### Pessoal
 
 Há quase um ano larguei um emprego razoavelmente bom para desbravar, na prática, o mundo do empreendedorismo. Prototipei um negócio legal junto com um amigo e não levei adiante naquele momento. Depois me juntei ao time da DeskMetrics e, desde então, tenho experimentado os melhores dias da minha vida, profissional e pessoalmente.
 

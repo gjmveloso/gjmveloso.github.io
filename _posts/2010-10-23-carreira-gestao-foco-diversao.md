@@ -16,7 +16,7 @@ Antes de entrar nos três temas gostaria de dar uma breve contextualizada na min
 
 Como cheguei nessa síntese? Ao ir mais fundo, sem pensar nesses três erros e ir quebrando a cara, busquei nos livros de gestão, empreendedorismo, inovação, tecnologia e marketing um refúgio e um momento em que me desligava da rotina de trabalho e aprendia, dentre outras coisas, sobre __gestão, foco e diversão__. Aí foi pegar esses conceitos e colocá-los na análise do início da minha jornada profissional.
 
-###Gestão
+### Gestão
 
 É difícil falar para um calouro sobre gestão da carreira. Nesse momento ele quer beber no boteco em frente da faculdade, ir as calouradas e desfrutar da sensação de não ter que mostrar o dever de casa para o professor dar o visto. Mas hoje defendo três disciplinas obrigatórias para todos os cursos de graduação: Gestão da Carreira I, no primeiro período, Gestão da Carreira II, exatamente no meio do curso, e Gestão da Carreira III, no último período, tão importante quanto o Trabalho de Conclusão de Curso.
 
@@ -24,7 +24,7 @@ Aqui o aluno deve aprender sobre como o mercado de trabalho se comporta, como se
 
 Depois de formado, é continuar fazendo a gestão da carreira e os planos de carreira para um determinado período. Quem sabe entrar em um curso de MBA em Gestão da Carreira?
 
-###Foco
+### Foco
 
 Imagino que qualquer jovem profissional que goste de trabalhar sinta-se hiperestimulado no início em abraçar tudo aquilo que lhe interessa. Já tive épocas em que lia um monte de coisa sobre um monte de coisa. Achava que seria rapidamente o especialista apenas lendo muito sobre administração de empresas, marketing digital, social media, SEO, desenvolvimento web, etc. Tudo isso ao mesmo tempo, desconhecia a importância da experiência, dos fios brancos e da calma, que não tem nada a ver com a preguiça, ok?
 
@@ -34,7 +34,7 @@ Enquanto a gestão olha para o futuro você deve ter bastante __foco em desempen
 
 Se quiser ou precisar mudar tudo de uma hora para outra, o que pode ser ótimo, volte ao seu plano de carreira primeiro.
 
-###Diversão
+### Diversão
 
 Agora que já temos pensamento de longo prazo com __gestão__ e sabemos da necessidade de ter __foco__, colocando todo nosso potencial e energia no que importa agora, é necessário algum mecanismo que nos force a tornar essas duas disciplinas em hábito. Não há nada melhor do que simplesmente se __divertir com o trabalho__ para que isso ocorra sem muito esforço.
 

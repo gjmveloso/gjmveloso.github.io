@@ -14,23 +14,23 @@ As a newcomer I was completely lost with the Multi-Touch and gestures thing. Als
 
 So as a developer the first thing I did when turned on my new computer was to **install developer tools**.
 
-####Console####
+#### Console
 
 Everything starts with a good console. Mac come with a lot of languages and tools installed by default and the  standard _bash shell_ is good enough. But you're just one command line away to get [Homebrew](http://brew.sh/), then [Cask](http://caskroom.io/), then [oh-my-zsh](http://ohmyz.sh/). **With this combination I have the best console experience ever**. Everything is explicit, informational and you can accomplish so much without any custom settings or additional plugins. It just works.
 
-####Text Editor####
+#### Text Editor
 
 [GitHub's Atom](https://atom.io/) was already my favorite text editor on Linux and Windows. And packages like [go-plus](https://atom.io/packages/go-plus), [react](https://atom.io/packages/react), [turbo-javascript](https://atom.io/packages/turbo-javascript), [omnisharp](https://atom.io/packages/omnisharp-atom), [atom-beautify](https://atom.io/packages/atom-beautify), [file-icons](https://atom.io/packages/file-icons), [merge-conflicts](https://atom.io/packages/merge-conflicts), [pigments](https://atom.io/packages/pigments), [linter](https://atom.io/packages/linter) ([select your language(s) here](https://atomlinter.github.io)), [minimap](https://atom.io/packages/minimap), [emmet](https://atom.io/packages/emmet), [autoclose-html](https://atom.io/packages/autoclose-html), [autocomplete-paths](https://atom.io/packages/autocomplete-paths) and [script](https://atom.io/packages/script) provides everything I need to work and to have some extra fun.
 
-####Xcode####
+#### Xcode
 
 Some parts of Xcode will be required by [Homebrew](http://brew.sh/) but as I wanted to start playing with _iOS_ Developmemt I need to install the complete version. Everything available from the App Store. Swift Playground is remarkable and fun. The IDE is so clear and focused that sometimes I think something is missing. A complete new different way to write code that is fun and easy.
 
-####Additional software####
+#### Additional software
 
 It's also good to mention that additional software are also vastly available. It comes with Pages, Keynote and Numbers but you can also install [LibreOffice](http://www.libreoffice.org/download/libreoffice-fresh/) which is really well crafted for OS X. Chrome, Skype and Spotify (for my long programming sessions) are available as expected.
 
-####Bonus: iOS Learning Resources####
+#### Bonus: iOS Learning Resources
 
 There are a lot of _iOS_ Development courses available on [Udacity](https://www.udacity.com/courses/ios) and [Lynda](http://www.lynda.com/search?q=ios). Additionally, some high-quality and free courses are available on [iTunes U](https://itunes.apple.com/app/itunes-u/id490217893?mt=8).
 

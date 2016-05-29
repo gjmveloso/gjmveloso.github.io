@@ -10,7 +10,7 @@ No final do livro, Benioff apresenta o método de gerenciamento que ele mesmo cr
 
 Abaixo segue uma breve descrição do método. O livro é mais do que recomendado e possui muito mais informações valiosas para quem quer começar um negócio.
 
-###Significado
+### Significado
 
 V2MOM (pronuncia-se V2 mom) é um acrônimo para __vision__ (visão), __values__ (valores), __methods__ (métodos), __obstacles__ (obstáculos) e __measures__ (medidas). O bacana é que o acrônimo originalmente em inglês se mantem inalterado em nosso idioma.
 
@@ -26,13 +26,13 @@ Segundo Benioff, o método foi criado a partir do seu descontentamento com os fr
 
 * __Medidas:__ Como você saberá que atingiu sua visão?
 
-###Objetivo
+### Objetivo
 
 O meta do V2MOM é possibilitar que toda a organização se comunique e saiba o que está acontecendo, atingindo um total alinhamento entre as pessoas, que para Benioff é o segredo do sucesso da Salesforce.
 
 Outras formas de medir, como os KPIs, segundo Marc, não conseguem acompanhar um ritmo de intensa adaptação.
 
-###Implementação
+### Implementação
 
 O V2MOM deve ser implementado de uma maneira bem peculiar, misturando uma abordagem _top down_ com outra _bottom up_.
 
@@ -51,7 +51,7 @@ O pulo do gato do V2MOM vem agora: cada funcionário tem o seu próprio V2MOM, d
 
 Dessa forma, segundo Benioff, todos os funcionários conseguem visualizar sua importância e a do seu trabalho para alcançar a visão da empresa. Total alinhamento.
 
-###Exemplo
+### Exemplo
 
 Abaixo segue o primeiro V2MOM da Salesforce, criado por Marc em 12 de abril de 1999 em um grande envelope da American Express.
 
