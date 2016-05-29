@@ -4,7 +4,7 @@ title: "Domenico De Masi e o trabalho"
 comments: true
 ---
 
-No dia 31 de agosto tive o privilégio de estar na solenidade de abertura da [Feira do Empreendedor do SEBRAE-MG](http://www.sebraemg.com.br/feiradoempreendedor/), que por sinal está muito bem organizada, e pude ouvir as sábias reflexões do sociólogo italiano Domenico De Masi, que sabe como ninguém explicar as mudanças no mercado de trabalho e na forma como trabalhamos.
+No dia 31 de agosto tive o privilégio de estar na solenidade de abertura da [Feira do Empreendedor do SEBRAE-MG](http://www.sebraemg.com.br/feiradoempreendedor/){:target="blank"}, que por sinal está muito bem organizada, e pude ouvir as sábias reflexões do sociólogo italiano Domenico De Masi, que sabe como ninguém explicar as mudanças no mercado de trabalho e na forma como trabalhamos.
 
 Após uma interessante retrospectiva, da época rural à pós-industrial, De Masi citou os dez fatores que alteram, e continuarão alterando, a forma como lidamos com o trabalho. Como ele trata da __criatividade__ em quase todos os pontos, é importante dar o significado de De Masi para essa palavra: criatividade é a __mudança__, sintetizada a partir de duas qualidades, __fantasia__ e poder de __realização__.
 
@@ -24,7 +24,7 @@ __5. Lazer__
     Um jovem de 20 anos tem, até completar 80 anos, mais de 520 mil horas de vida, as quais 400 mil serão dedicadas ao lazer. Não nos preparamos para aproveitar esse tempo livre nem em como combateremos a sensação de __tédio__. Aposto no __Ócio Criativo__.
 
 __6. Androginia__
-    A __razão__, tida como sentimento masculino, e a __emoção__, tida como sentimento feminino, se [fundiram](http://pt.wikipedia.org/wiki/Androginia). As mulheres e os jovens representam o futuro da nossa sociedade e conquistaram seus espaços, alterando radicalmente nosso estilo de vida. De Masi chamou atenção para esta mudança várias vezes, mostrando que a mesma é tão significativa quanto incompreendida.
+    A __razão__, tida como sentimento masculino, e a __emoção__, tida como sentimento feminino, se [fundiram](http://pt.wikipedia.org/wiki/Androginia){:target="blank"}. As mulheres e os jovens representam o futuro da nossa sociedade e conquistaram seus espaços, alterando radicalmente nosso estilo de vida. De Masi chamou atenção para esta mudança várias vezes, mostrando que a mesma é tão significativa quanto incompreendida.
 
 __7. Estética__
     Procuramos a exatidão máxima e a beleza se tornou importante __fator competitivo__ (a Apple é um bom exemplo). Hoje funcionar somente não basta, tem de ser bonito e fácil.

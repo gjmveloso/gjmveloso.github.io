@@ -8,7 +8,7 @@ Há duas edições atrás, a revista EXAME já alertava sobre a queda do prestí
 
 Tenho alguns palpites do por que isso ocorreu, o principal deles é o fato de __TI ser cada vez mais um assunto natural nas empresas__. TI já não pode ser o típico departamento de TI, daqueles que ainda lembram os velhos CPDs (Centros de Processamento de Dados). Hoje __o executivo de TI precisa ser muito mais multidisciplinar__.
 
-Pois bem, antes de enterrar os CIOs já tem gente redefinindo o conceito para o cenário atual. Em um paper da [Constellation Research](http://www.constellationrg.com/), o papel do CIO foi quebrado em quatro _personas_.
+Pois bem, antes de enterrar os CIOs já tem gente redefinindo o conceito para o cenário atual. Em um paper da [Constellation Research](http://www.constellationrg.com/){:target="blank"}, o papel do CIO foi quebrado em quatro _personas_.
 
 #### Chief Infrastructure Officer
 
@@ -27,4 +27,4 @@ O futuro está nos dados. Esse executivo será responsável por pegar os dados c
 Esses executivos já estão por aí, já que a palavra de ordem nas empresas é inovar. "Inove, ou serás inovado", como diz o [Bernardo Porto](http://www.bernardoporto.com/). Esses executivos serão responsáveis por identificar tecnologias disruptivas e, principalmente, por encontrar maneiras de aplicá-las no ambiente corporativo.
 
 
->Fonte: [ReadWriteWeb Enterprise](http://www.readwriteweb.com/enterprise/2011/03/four-new-types-of-cio-for-the.php)
+>Fonte: [ReadWriteWeb Enterprise](http://www.readwriteweb.com/enterprise/2011/03/four-new-types-of-cio-for-the.php){:target=blank"}

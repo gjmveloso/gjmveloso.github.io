@@ -4,13 +4,13 @@ title: "Sobre comunidades"
 comments: true
 ---
 
-Durante o mês de fevereiro fiz um curso de Python e Django com o mestre [Henrique Bastos](http://twitter.com/henriquebastos). Mais do que aprender duas ferramentas fantásticas para desenvolvimento web e entender melhor algumas práticas ágeis até então não muito claras para minha cabeça, o curso me ensinou a **importância das comunidades**.
+Durante o mês de fevereiro fiz um curso de Python e Django com o mestre [Henrique Bastos](http://twitter.com/henriquebastos){:target="blank"}. Mais do que aprender duas ferramentas fantásticas para desenvolvimento web e entender melhor algumas práticas ágeis até então não muito claras para minha cabeça, o curso me ensinou a **importância das comunidades**.
 
-Há um pouco mais de um mês tuitei sobre minha vontade de juntar uma galera de BH que gosta de conversar sobre TI, e a partir dela enveredar para os mais diversos temas, numa boa mesa de boteco, da mesma forma como [o pessoal do Rio de Janeiro já faz há um bom tempo com enorme sucesso](http://horaextra.org/): __#horaextra__
+Há um pouco mais de um mês tuitei sobre minha vontade de juntar uma galera de BH que gosta de conversar sobre TI, e a partir dela enveredar para os mais diversos temas, numa boa mesa de boteco, da mesma forma como [o pessoal do Rio de Janeiro já faz há um bom tempo com enorme sucesso](http://horaextra.org/){:target="blank"}: __#horaextra__
 
-Em pouco menos de uma semana já estávamos com um grupo formado e com o pessoal discutindo como tirar a ideia do papel rapidamente. A divulgação no Twitter foi rápida como teclar 140 caracteres e, no momento em que escrevo esse post, temos 56 pessoas cadastradas no [Groups](http://groups.google.com/group/horaextrabh) do [@horaextrabh](http://twitter.com/horaextrabh). Se você ainda não está lá, sinta-se convidado a participar.
+Em pouco menos de uma semana já estávamos com um grupo formado e com o pessoal discutindo como tirar a ideia do papel rapidamente. A divulgação no Twitter foi rápida como teclar 140 caracteres e, no momento em que escrevo esse post, temos 56 pessoas cadastradas no [Groups](http://groups.google.com/group/horaextrabh){:target="blank"} do [@horaextrabh](http://twitter.com/horaextrabh){:target="blank"}. Se você ainda não está lá, sinta-se convidado a participar.
 
-De lá pra cá, no melhor estilo [small acts mineirinho](http://smallactsmanifesto.org/), já fizemos dois encontros e o terceiro já está marcado para a próxima semana ;)
+De lá pra cá, no melhor estilo [small acts mineirinho](http://smallactsmanifesto.org/){:target="blank"}, já fizemos dois encontros e o terceiro já está marcado para a próxima semana ;)
 
 E então, o que já deu pra perceber sobre comunidades espontâneas que surgem a partir de iniciativas como o __#horaextra__ e como isso é __muito bom__:
 
@@ -34,4 +34,4 @@ __5. Todos sabem que dali algo maior pode surgir a qualquer momento__
 
 Em uma comunidade com as características acima ninguém pode ousar dizer quando algo maior (novas empresas, oportunidades de empregos, parcerias de negócios, iniciativas educacionais, eventos, etc.) surgirá. O certo é que o __ambiente é extremamente favorável__ para que isso ocorra de maneira natural e auto-sustentada.
 
-Valeu galera do [@horaextrabh](http://twitter.com/horaextrabh). Valeu moçada do [@horaextrario](http://twitter.com/horaextrario) pelo apoio e incentivo. **#smallacts**
+Valeu galera do [@horaextrabh](http://twitter.com/horaextrabh){:target="blank"}. Valeu moçada do [@horaextrario](http://twitter.com/horaextrario){:target="blank"} pelo apoio e incentivo. **#smallacts**

@@ -4,7 +4,7 @@ title: "As Leis da Simplicidade"
 comments: true
 ---
 
-Hoje terminei de ler o pequeno e profundo livro ["As Leis da Simplicidade"](http://compare.buscape.com.br/as-leis-da-simplicidade-john-maeda-8599560093.html), de John Maeda.
+Hoje terminei de ler o pequeno e profundo livro ["As Leis da Simplicidade"](http://compare.buscape.com.br/as-leis-da-simplicidade-john-maeda-8599560093.html){:target="blank"}, de John Maeda.
 
 O livro é um verdadeiro passeio no profundo mundo da simplicidade. O livro é escrito de uma forma única, com um final __simplesmente__ fantástico, recomendo fortemente a leitura que mostra a importância da simplicidade nos negócios, na tecnologia, no design e na vida.
 
