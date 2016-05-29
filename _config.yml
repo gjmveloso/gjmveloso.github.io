@@ -1,20 +1,19 @@
 exclude: [vendor]
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-redcarpet:
-  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Blog do Gustavo Veloso
-tagline:          'Posts aleatórios sobre carreira, tecnologia e empreendedorismo'
-description:      'Espaço para compartilhar ideias sobre carreira, tecnologia e empreendedorismo. Você também pode me encontrar no <a href="http://linkedin.com/in/gustavoveloso" target="_blank">LinkedIn</a> e no <a href="http://twitter.com/gjmveloso">Twitter<a/>.'
+title:            My Thoughts
+tagline:          'Random posts about career, technology and entrepreneurship'
+description:      'Space to share thoughts about career, technology and entrepreneurship. I can also be found at <a href="http://linkedin.com/in/gustavoveloso" target="_blank">LinkedIn</a> and <a href="http://twitter.com/gjmveloso">Twitter<a/>.'
 url:              http://www.gustavoveloso.com
-baseurl:	  /
+baseurl:	        /
+timezone:         America/Santiago
 
 author:
   name:           'Gustavo Veloso'
