@@ -19,4 +19,4 @@ Read a lot about [MongoDB failures on specific scenarios](https://www.google.com
 MongoDB is just an option. A really good one. But one size does not fit all.
 
 
->_[Update: Look at some [findings about this post been featured on Hacker News front page](/2012/12/28/hacker-news-effect-findings) for a few minutes]_
+>_Update: Look at some [findings about this post been featured on Hacker News front page](/2012/12/28/hacker-news-effect-findings) for a few minutes]_
