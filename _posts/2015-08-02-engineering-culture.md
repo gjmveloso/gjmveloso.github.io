@@ -25,8 +25,7 @@ Amazon, Google, Facebook, Twitter, Rackspace, Netflix and Spotify have really go
 
 __Software Engineering is a perfect mix of science and craft__. To promote craftsmanship you need to trust on your people. As stated by Laszlo Bock on his [amazing Work Rules! book](http://www.workrules.net){:target="blank"}: _"Give people slightly more trust, freedom and authority than you are comfortable giving them. If you're not nervous, you haven't given them enough."_
 
-
-### Shared sense of responsibility
+### Shared sense of responsibility
 
 Companies with strong cultures have __employees that act as founders__. They aren't there only for money. They're moved by a purpose and by improving his craft. Quoting one of the signs at Facebook HQ, _"no problem is someone else's problem"_. It's that time someone provide a link to [Daniel Pink's 2009 TED Talk](https://www.youtube.com/watch?v=rrkrvAUbU9Y){:target="blank"}, right?
 
