@@ -19,25 +19,25 @@ Amazon, Google, Facebook, Twitter, Rackspace, Netflix and Spotify have really go
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://player.vimeo.com/video/94950270' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
-## Common foundation of great engineering cultures
+### Common foundation of great engineering cultures
 
-### Trust
+#### Trust
 
 __Software Engineering is a perfect mix of science and craft__. To promote craftsmanship you need to trust on your people. As stated by Laszlo Bock on his [amazing Work Rules! book](http://www.workrules.net){:target="blank"}: _"Give people slightly more trust, freedom and authority than you are comfortable giving them. If you're not nervous, you haven't given them enough."_
 
-### Shared sense of responsibility
+#### Shared sense of responsibility
 
 Companies with strong cultures have __employees that act as founders__. They aren't there only for money. They're moved by a purpose and by improving his craft. Quoting one of the signs at Facebook HQ, _"no problem is someone else's problem"_. It's that time someone provide a link to [Daniel Pink's 2009 TED Talk](https://www.youtube.com/watch?v=rrkrvAUbU9Y){:target="blank"}, right?
 
-### Practice-oriented
+#### Practice-oriented
 
 The way people conceive, build and deliver software is constantly changing. _State of the art_ and _status quo_ simply do not exist. **Pragmatic cultures works. Dogmas don't**.
 
-### _Tailor-made_
+#### _Tailor-made_
 
 _"One size does not fit all"_ and ["There is no silver bullet"](https://en.wikipedia.org/wiki/No_Silver_Bullet){:target="blank"} are classic quotes in Software Engineering. They're also true for establishing a engineering culture. __Well known engineering cultures are a good point of start and serve more as an inspiration than as a guideline__. Before start implementing your engineering culture __take a break and discover what makes your organization unique__.
 
-### Diversity
+#### Diversity
 
 A strong culture generally started on early stages of a company and does not change a lot along the way. Counterintuitively how do you implement your culture and how your culture touches all daily activities of your company could change all the time until you get it right. And that's fine. Implementing powerful cultures requires an environment that truly embraces diversity of all kinds. Diverse people together drives innovation. **Diversity is the key for keeping your culture alive and updated**.
 
