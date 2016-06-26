@@ -29,7 +29,7 @@ __Software Engineering is a perfect mix of science and craft__. To promote craft
 
 Companies with strong cultures have __employees that act as founders__. They aren't there only for money. They're moved by a purpose and by improving his craft. Quoting one of the signs at Facebook HQ, _"no problem is someone else's problem"_. It's that time someone provide a link to [Daniel Pink's 2009 TED Talk](https://www.youtube.com/watch?v=rrkrvAUbU9Y){:target="blank"}, right?
 
-#### Practice-oriented
+#### _Practice-oriented_
 
 The way people conceive, build and deliver software is constantly changing. _State of the art_ and _status quo_ simply do not exist. **Pragmatic cultures works. Dogmas don't**.
 
