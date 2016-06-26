@@ -5,7 +5,8 @@ comments: true
 ---
 
 >"Culture eats Strategy for Breakfast" - [Peter Drucker](http://www.druckerinstitute.com/peter-druckers-life-and-legacy/){:target="_blank"}
-> [Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"}
+
+>[Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"}
 
 On [August of last year I've shared some thoughts about Engineering Culture](/2015/08/02/engineering-culture){:target="_blank"}, with some good examples and an intent to extract foundations of great company cultures: __Trust__, __Shared sense of responsibility__, __*Practice-oriented*__, __*Tailor-made*__ and __Diversity__.
 
