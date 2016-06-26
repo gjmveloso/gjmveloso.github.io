@@ -62,4 +62,4 @@ Let's use [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle){:ta
 
 _Happy Hacking!_ 🤓
 
-[^1]: [Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"})
+[^1]: [Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"}
