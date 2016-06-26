@@ -11,9 +11,9 @@ As all other technologies, it was not designed to be the universal solution. NoS
 
 I've been using MongoDB for more than one year on two completely different usage domains and requirements with more than satisfactory results. Is it perfect? Obviously not, but I never evaluate a new technology component or stack trying to find the perfection. Only the one which I feel comfortable using it and makes some sense to use it on my current problem. Simple ;)
 
-Read a lot about [MongoDB failures on specific scenarios](https://www.google.com/?q=why+mongodb+is+bad){:target="blank"}, learn with them and make your own decisions based on facts about your business requirements and your team restrictions. And if you fail using it, share with us on [Hacker News](http://news.ycombinator.com/){:target="blank"}.
+Read a lot about [MongoDB failures on specific scenarios](https://www.google.com/?q=why+mongodb+is+bad){:target="_blank"}, learn with them and make your own decisions based on facts about your business requirements and your team restrictions. And if you fail using it, share with us on [Hacker News](http://news.ycombinator.com/){:target="_blank"}.
 
 MongoDB is just an option. A really good one. But one size does not fit all.
 
 
->_Update: Look at some [findings about this post been featured on Hacker News front page](/2012/12/28/hacker-news-effect-findings){:target="blank"} for a few minutes]_
+>_Update: Look at some [findings about this post been featured on Hacker News front page](/2012/12/28/hacker-news-effect-findings){:target="_blank"} for a few minutes]_

@@ -33,4 +33,4 @@ comments: true
 * __10 de abril de 2012__: o mundo já não é mais o mesmo.
 
 
->Fontes: [CrunchBase](http://www.crunchbase.com/company/instagram){:target="blank"} e [The Next Web](http://thenextweb.com/mobile/2012/04/04/instagram-for-android-hits-1m-downloads-in-under-24-hours/){:target="blank"}
+>Fontes: [CrunchBase](http://www.crunchbase.com/company/instagram){:target="_blank"} e [The Next Web](http://thenextweb.com/mobile/2012/04/04/instagram-for-android-hits-1m-downloads-in-under-24-hours/){:target="_blank"}

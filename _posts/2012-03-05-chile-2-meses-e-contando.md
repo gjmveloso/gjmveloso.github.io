@@ -4,7 +4,7 @@ title: "Chile: 2 meses e contando"
 comments: true
 ---
 
-Hoje, exatamente, completo o segundo mês no Chile. Para os que não sabem, a [DeskMetrics](http://www.deskmetrics.com/){:target="blank"} foi selecionada para participar do programa de aceleração de startups do governo chileno, o [Start-Up Chile](http://www.startupchile.org/){:target="blank"} e mudamos todos, de mala e cuia, para a linda e fascinante Santiago.
+Hoje, exatamente, completo o segundo mês no Chile. Para os que não sabem, a [DeskMetrics](http://www.deskmetrics.com/){:target="_blank"} foi selecionada para participar do programa de aceleração de startups do governo chileno, o [Start-Up Chile](http://www.startupchile.org/){:target="_blank"} e mudamos todos, de mala e cuia, para a linda e fascinante Santiago.
 
 Quero separar este post em duas partes indepentendes: a primeira parte é falar sobre a experiência profissional e a segunda sobre a experiência pessoal. __No final, obviamente, uma está conectada à outra__.
 
@@ -12,13 +12,13 @@ Quero separar este post em duas partes indepentendes: a primeira parte é falar 
 
 Quando fomos selecionados para vir pra cá, já estávamos com um planejamento de curto prazo razoavelmente bem definido. Nesses primeiros meses aqui estamos terminando de aprimorar nosso produto e eu, que antes estava focado em vendas, estou mergulhando fundo em Python, Django, MongoDB, e outras _cositas más_.
 
-Em outro momento, escrevi sobre a minha retomada profissional, ao decidir voltar de uma vez por todas para o lado de quem suja as mãos com código, [atacando três erros que havia cometido](/2010/10/23/carreira-gestao-foco-diversao){:target="blank"}. Hoje tenho, mais uma vez, a convicção plena de que a escolha que fiz há 6 anos atrás foi mais que acertada e que construir produtos de software é o que eu realmente gosto de fazer. De verdade, mesmo tendo um pouco mais de 2 anos de formado, me sinto realizado profissionalmente. Não por que fiquei rico ou por que construí uma empresa de sucesso. Simplesmente por que sei que a base que estou construindo está se tornando sólida o suficiente para me levar onde meu empenho, esforço, suor e trabalho permitirem.
+Em outro momento, escrevi sobre a minha retomada profissional, ao decidir voltar de uma vez por todas para o lado de quem suja as mãos com código, [atacando três erros que havia cometido](/2010/10/23/carreira-gestao-foco-diversao){:target="_blank"}. Hoje tenho, mais uma vez, a convicção plena de que a escolha que fiz há 6 anos atrás foi mais que acertada e que construir produtos de software é o que eu realmente gosto de fazer. De verdade, mesmo tendo um pouco mais de 2 anos de formado, me sinto realizado profissionalmente. Não por que fiquei rico ou por que construí uma empresa de sucesso. Simplesmente por que sei que a base que estou construindo está se tornando sólida o suficiente para me levar onde meu empenho, esforço, suor e trabalho permitirem.
 
 Isso é o que verdadeiramente importa e é o que dura mais tempo.
 
 Aqui no Start-Up Chile estou tendo a oportunidade de ouvir e conversar diariamente com algumas das mentes mais brilhantes do mundo. __Realmente o programa tem a força de colocar muitas pessoas excelentes juntas__. E isso é fantástico! O impacto disso só será sentido daqui algum tempo e, parafraseando Einstein, __"uma mente que se abre ao mundo jamais volta ao seu tamanho original"__.
 
-__O [contato pessoal direto](http://smallactsmanifesto.org/){:target="blank"} é tão intenso e diversificado que os pontos não tão positivos e burocráticos são diminuídos a ponto de serem quase esquecidos. Tornam-se irrelevantes__.
+__O [contato pessoal direto](http://smallactsmanifesto.org/){:target="_blank"} é tão intenso e diversificado que os pontos não tão positivos e burocráticos são diminuídos a ponto de serem quase esquecidos. Tornam-se irrelevantes__.
 
 ### Pessoal
 

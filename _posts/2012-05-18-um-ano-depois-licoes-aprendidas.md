@@ -6,7 +6,7 @@ comments: true
 
 Este post já estava sendo pensado há quase 1 mês. O bom de escrever aqui tudo que acho importante na minha vida profissional é que fica fácil rastrear quando histórias passadas foram escritas e parar para uma retrospectiva.
 
-[Exatamente 1 ano atrás tomei a decisão mais importante da minha vida profissional até então](/2011/05/18/a-hora-e-agora){:target="blank"}. Decidi, depois de pensar até demais, embarcar numa aventura chamada __empreendedorismo__. Mais do que criar um novo negócio, me desafiei a criar um novo profissional: apaixonado pelo trabalho, (_hiper_)ativo, decidido, às vezes um pouco louco e disposto a não poupar energia para escrever uma história que valerá a pena contar para meus netos.
+[Exatamente 1 ano atrás tomei a decisão mais importante da minha vida profissional até então](/2011/05/18/a-hora-e-agora){:target="_blank"}. Decidi, depois de pensar até demais, embarcar numa aventura chamada __empreendedorismo__. Mais do que criar um novo negócio, me desafiei a criar um novo profissional: apaixonado pelo trabalho, (_hiper_)ativo, decidido, às vezes um pouco louco e disposto a não poupar energia para escrever uma história que valerá a pena contar para meus netos.
 
 No início dessa semana, comecei um novo capítulo dessa história. Antes de começar a escrevê-lo, queria registrar as __10 coisas que só podem ser feitas de uma única maneira__, segundo minhas experiências vividas neste ano que passou. Muitas delas podem estar escritas em outro lugar e eu não tenho o menor interesse em posar de guru, sabe-tudo ou empreendedor de sucesso. Não sou nada disso, acabei de começar ;)
 

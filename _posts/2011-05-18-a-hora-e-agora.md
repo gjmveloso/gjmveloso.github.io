@@ -16,8 +16,8 @@ Por que não canalizar toda essa energia, entusiasmo e experiência que adquiri 
 
 Também não podia deixar de registrar meus agradecimentos.
 
-* Ao pessoal do [Saia do Lugar](http://www.saiadolugar.com.br/){:target="blank"} e do [Empreendecast](http://www.empreendecast.com.br/){:target="blank"}. Vocês me ajudaram a enxergar que o empreendedorismo é um caminho viável e que tem tudo para ser extremamente gratificador. Fontes primárias de inspiração e conhecimento.
+* Ao pessoal do [Saia do Lugar](http://www.saiadolugar.com.br/){:target="_blank"} e do [Empreendecast](http://www.empreendecast.com.br/){:target="_blank"}. Vocês me ajudaram a enxergar que o empreendedorismo é um caminho viável e que tem tudo para ser extremamente gratificador. Fontes primárias de inspiração e conhecimento.
 
-* À galera do [Hora Extra de Belo Horizonte](http://groups.google.com/group/horaextrabh){:target="blank"}. Há mais de dois meses faço parte de uma comunidade de amigos de TI que resolveram, mesmo sem se conhecerem previamente, alavancar o aprendizado contínuo e a troca de experiências. Conto com vocês da mesma forma que vocês podem contar comigo! Aqui é importante lembrar também do [pessoal do Rio de Janeiro que começou com essa história toda](http://horaextra.org/){:target="blank"}.
+* À galera do [Hora Extra de Belo Horizonte](http://groups.google.com/group/horaextrabh){:target="_blank"}. Há mais de dois meses faço parte de uma comunidade de amigos de TI que resolveram, mesmo sem se conhecerem previamente, alavancar o aprendizado contínuo e a troca de experiências. Conto com vocês da mesma forma que vocês podem contar comigo! Aqui é importante lembrar também do [pessoal do Rio de Janeiro que começou com essa história toda](http://horaextra.org/){:target="_blank"}.
 
-  * Agradecimento especial ao [Henrique Bastos](http://henriquebastos.net/){:target="blank"} que, além de despertar meu interesse por Python/Django, me ensinou a importância das comunidades. O curso Welcome to the Django tem tudo a ver com toda essa mudança na minha vida profissional.
+  * Agradecimento especial ao [Henrique Bastos](http://henriquebastos.net/){:target="_blank"} que, além de despertar meu interesse por Python/Django, me ensinou a importância das comunidades. O curso Welcome to the Django tem tudo a ver com toda essa mudança na minha vida profissional.
