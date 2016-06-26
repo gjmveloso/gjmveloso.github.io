@@ -4,6 +4,9 @@ title: "Hacking your (Engineering) Culture"
 comments: true
 ---
 
+>"Culture eats Strategy for Breakfast" - [Peter Drucker](http://www.druckerinstitute.com/peter-druckers-life-and-legacy/){:target="_blank"}
+> [Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"}
+
 On [August of last year I've shared some thoughts about Engineering Culture](/2015/08/02/engineering-culture){:target="_blank"}, with some good examples and an intent to extract foundations of great company cultures: __Trust__, __Shared sense of responsibility__, __*Practice-oriented*__, __*Tailor-made*__ and __Diversity__.
 
 Since then I've been experiencing a lot of new and challenging changes on my career and on my [personal life](/2016/05/29/lets-talk-openly-about-depression){:target="_blank"}. Looking them retrospectively and with an _extra nudge_ from one of my greatest professional references I've started thinking and [reading](https://sgeinternational.com/culture-hacking-is-a-business-thing/){:target="_blank"} [more](https://hbr.org/2016/06/what-it-takes-to-innovate-within-a-corporate-bureaucracy){:target="_blank"} about when culture (engineering or your broader company culture) could (or should) be _hacked_ - [_hacking_ in the constructive meaning of the term](http://www.wired.com/epicenter/2012/02/zuck-letter/){:target="_blank"}.
