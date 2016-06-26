@@ -4,9 +4,7 @@ title: "Hacking your (Engineering) Culture"
 comments: true
 ---
 
->"Culture eats Strategy for Breakfast" - [Peter Drucker](http://www.druckerinstitute.com/peter-druckers-life-and-legacy/){:target="_blank"}
-
->[Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"}
+>"Culture eats Strategy for Breakfast" - [Peter Drucker](http://www.druckerinstitute.com/peter-druckers-life-and-legacy/){:target="_blank"}[^1]
 
 On [August of last year I've shared some thoughts about Engineering Culture](/2015/08/02/engineering-culture){:target="_blank"}, with some good examples and an intent to extract foundations of great company cultures: __Trust__, __Shared sense of responsibility__, __*Practice-oriented*__, __*Tailor-made*__ and __Diversity__.
 
@@ -63,3 +61,5 @@ _Hacking_ a culture is closer to a [zero-sum game](https://en.wikipedia.org/wiki
 Let's use [Pareto Principle](https://en.wikipedia.org/wiki/Pareto_principle){:target="_blank"}? You will fail 80% of the time you try to _hack_ your culture. If you achieve the lucky 20%, be prepared to *go big*. You will need to evangelize your _recently tuned_ culture everywhere. **It will not be that risky anymore but it's still hard.**
 
 _Happy Hacking!_ 🤓
+
+[^1]: [Or for lunch](http://www.fastcompany.com/1810674/culture-eats-strategy-lunch){:target="_blank"})
