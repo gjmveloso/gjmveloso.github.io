@@ -38,7 +38,7 @@ Sometimes your culture is in place but it's simply outdated and need some _tunin
 
 #### 1. Be humble, be [kind](http://www.huffingtonpost.com/peter-field/kindness-research_b_7054652.html){:target="_blank"}
 
-_Hacking a culture_ is not easy and have a **huge room to be misunderstood**. **Be humble. Be kind**. You're not the only individual that is trying to help your company succeed. And you could be driven by the wrong assumptions.
+_Hacking_ a culture is not easy and have a **huge room to be misunderstood**. **Be humble. Be kind**. You're not the only individual that is trying to help your company succeed. And you could be driven by the wrong assumptions.
 
 
 #### 2. Share your _hacking plan_ with people you trust - even your boss. Or your boss' boss.
