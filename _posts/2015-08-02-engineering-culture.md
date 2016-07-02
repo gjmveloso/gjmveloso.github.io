@@ -11,7 +11,7 @@ to Facebook investors I've been interested on how [culture drives businesses](ht
 Especially, _tech businesses_.
 
 Since last year after reading [Dave Thomas' post about it's time to kill agile](http://pragdave.me/blog/2014/03/04/time-to-kill-agile/){:target="_blank"}
-I was looking for ~~engineering~~ culture_ examples. **Relying on culture instead of on processes, methods and tools is easier.
+I was looking for ~~engineering~~ culture examples. **Relying on culture instead of on processes, methods and tools is easier.
 And lasts for more time**.
 
 [Amazon](https://www.amazon.jobs/en/principles){:target="_blank"}, [Google](https://rework.withgoogle.com/){:target="_blank"}, [Facebook](https://hbr.org/2016/06/how-facebook-tries-to-prevent-office-politics){:target="_blank"}, [Twitter](http://www.fastcompany.com/3034679/most-innovative-companies/the-company-with-the-best-culture-twitter-according-to-glassdoor){:target="_blank"}, [Rackspace](https://www.rackspace.com/talent/culture/){:target="_blank"}, [Netflix](http://www.huffingtonpost.com/2015/02/27/netflix-culture-deck-success_n_6763716.html){:target="_blank"} and [Spotify](http://www.fastcompany.com/3034617/how-spotifys-music-obsessed-culture-makes-the-company-rock){:target="_blank"} have really good _~~engineering~~ culture principles_. Take Spotify as an example and go ahead with these two videos ;)
