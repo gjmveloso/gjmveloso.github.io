@@ -4,7 +4,7 @@ title: "(Engineering) Culture"
 comments: true
 ---
 
-> This post is followed by [Culture Hacking](/2016/06/26/culture-hacking){:target="_blank"} post
+>This post is followed by [Culture Hacking](/2016/06/26/culture-hacking){:target="_blank"} post
 
 Since [Mark Zuckerberg's 2012 annual letter](http://www.wired.com/2012/02/zuck-letter/){:target="_blank"}
 to Facebook investors I've been interested on how [culture drives businesses](http://www.slideshare.net/Bufferapp/buffer-culture-06-with-a-change-to-be-a-no-ego-doer){:target="_blank"}.
