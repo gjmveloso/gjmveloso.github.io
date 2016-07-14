@@ -45,6 +45,7 @@ _"One size does not fit all"_ and ["There is no silver bullet"](https://en.wikip
 
 A strong culture generally started on early stages of a company and does not change a lot along the way. Counterintuitively how do you implement your culture and how your culture touches all daily activities of your company could change all the time until you get it right. And that's fine. Implementing powerful cultures requires an environment that truly embraces diversity of all kinds. Diverse people together drives innovation. **Diversity is the key for keeping your culture alive and updated**.
 
+>_Update (7/14/16):_ Adding the recently [open sourced](https://about.gitlab.com/2016/07/12/our-handbook-is-open-source-heres-why/){:target="_blank"} [GitLab's Handbook](https://about.gitlab.com/handbook/){:target="_blank"} and remembering the great [Valve's Handbook for New Employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf){:target="_blank"}
 
 >_Update (7/2/16):_ This post expanded a lot since its original post date. _Engineering_ are now optional. Great tech-intensive companies not only have great engineering culture. They also have great **company-wide culture** in place.
 
