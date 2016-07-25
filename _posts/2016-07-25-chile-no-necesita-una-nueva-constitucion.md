@@ -25,7 +25,7 @@ Las **I**stituciones de **Sa**lud **Pre**visional fueron creadas en 1981. Es un 
 
 ### Por qué Chile necesita una nueva Ley de Isapres
 
-Las **Isapres** se convirtieron en un negocio. Un puro y simples negocio. Excesivamente reglado por el Estado, no existe competencia real en el mercado: todas las [Isapres] son más o menos lo mismo, con la misma cobertura, y los mismos costos.
+Las **Isapres** se convirtieron en un negocio. Un puro y simples negocio. Excesivamente reglado por el Estado, no existe competencia real en el mercado: todas las **Isapres** son más o menos lo mismo, con la misma cobertura, y los mismos costos.
 
 La libre iniciativa, con un control menos rígido del sistema, sería capaz de brindar a los nuevos entrantes al mercado, capacidad de innovación, reducción de costos, y mejores servicios a la ciudadania.
 
@@ -37,9 +37,9 @@ Es una vergüenza cuanto una mujer en edad fértil tiene que pagar por su **Isap
 
 #### 2. Todos pagan por la mala utilización del sistema
 
-No se puede negar. Con un sistema injusto y caro algunas personas parten para el confronto. Tratan de sacar su plata de las Isapres, tirando Licencias Médicas que no corresponden. ¿Quien de Uds. no conocen a nadie que está hace algunos meses con Licencias que no son verdaderas? ¿Cuantas mamás Uds. no conocen que (no) tienen _depresión post parto_ y que están cuidando de sus hijos sin trabajar y recibiendo un beneficio que no corresponde?
+No se puede negar. Con un sistema injusto y caro algunas personas parten para el confronto. Tratan de _sacar su plata_ de las **Isapres**, tirando Licencias Médicas que no corresponden. ¿Quien de Uds. no conocen a nadie que está hace algunos meses con Licencias que no son verdaderas? ¿Cuantas mamás Uds. no conocen que (no) tienen _depresión post parto_ y que están cuidando de sus hijos sin trabajar y recibiendo un beneficio que no corresponde?
 
-Para darles un ejemplo: Por ser un instrumento fácil de _sacar la plata de la Isapre_, **la psiquiatría no es una especialidad médica como las demás**. Por ser [uno de los países más depresivos del mundo todas las Isapres tienen cobertura (muy) limitada de todo lo que es salud mental](http://www.biobiochile.cl/noticias/2016/04/14/chile-lidera-ranking-de-depresion-oms-llamo-al-gobierno-a-instaurar-ley-de-salud-mental.shtml){:target="_blank"}. Quien sufre son los pacientes reales que son acometidos por alguna enfermedad de esa naturaleza.
+Para darles un ejemplo: Por ser un instrumento fácil de _sacar la plata de la **Isapre**_, **la psiquiatría no es una especialidad médica como las demás**. Por ser [uno de los países más depresivos del mundo todas las Isapres tienen cobertura (muy) limitada de todo lo que es salud mental](http://www.biobiochile.cl/noticias/2016/04/14/chile-lidera-ranking-de-depresion-oms-llamo-al-gobierno-a-instaurar-ley-de-salud-mental.shtml){:target="_blank"}. Quien sufre son los pacientes reales que son acometidos por alguna enfermedad de esa naturaleza.
 
 Hay que ser justo: _el sistema no es bueno. Pero hay personas que lo hace ser aún peor_.
 
@@ -55,7 +55,7 @@ Excesivamente reglado por el Estado las **Isapres** no tienen ningún incentivo 
 
 #### 5. Nadie quiere cambiar
 
-Las **Isapres** en Chile son muy poderosas, con excelentes relaciones entre la clase política (de derecha y de izquierda)- lo mismo vale para las **AFPs** - y nadie está dispuesto a cambiar el sistema para dejarlo más justo y eficiente.
+Las **Isapres** en Chile son muy poderosas, con excelentes relaciones entre todos los espectros de la clase política - lo mismo vale para las **AFPs** - y nadie está dispuesto a cambiar el sistema para dejarlo más justo y eficiente.
 
 
 **Les dejo una reflexión: Antes de cambiar una Constitución completa no sería mas conveniente una nueva Ley de Previsión Social?**
