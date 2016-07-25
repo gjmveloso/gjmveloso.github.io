@@ -15,7 +15,8 @@ En la teoría, los dos sistemas, de **AFPs** y **Isapres**, parecían buenos. El
 
 El Gobierno de turno, envenenado por el _populismo Latinoamericano del siglo XXI_, toma decisiones populistas sin ningún beneficio real a los chilenos y a los extranjeros que viven aquí. Una nueva Constitución Política, sin una necesidad real, es una temeridad. Uno de los más respetados jueces de la Suprema Corte brasileña dijo que _ninguna Constitución nace con fecha para morir. Las buenas Constituciones disponen de métodos para recibir cambios_. La Constitución vigente en Chile es así: [en sus pocas 111 páginas, dispone de como el Estado está organizado y de como el Congreso Nacional puede cambiarla](https://www.camara.cl/camara/media/docs/constitucion_politica.pdf){:target="_blank"}.
 
-¿Significa que la Constitución chilena es perfecta? Claro que no! En la Constitución política de Chile estaba el Sistema Binomial, por ejemplo, una herramienta de control político que ya no encontraba espacio en la democracia. Pues bien, quitemos el Sistema Binomial con un Proyecto de Reforma a la Constitución. Hecho ✓
+¿Significa que la Constitución chilena es perfecta? Claro que no! En la Constitución política de Chile estaba el Sistema Binomial, por ejemplo, una herramienta de control político que ya no encontraba espacio en la democracia.
+Pues bien, quitemos el Sistema Binomial con un Proyecto de Reforma a la Constitución. Hecho ✓
 
 A mi juicio, gastar tiempo hablando de una nueva Constitución mascara los problemas de fondo que deben ser arreglados ahora, con impacto positivo a la ciudadania. Podemos quedar aquí hablando de muchas cosas que requieren cambios, pero quiero hablar de las **Isapres**.
 
