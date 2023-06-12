@@ -3,7 +3,7 @@ comments: true
 date: "2010-08-24T00:00:00Z"
 title: Ultrapasse as tendências, foque nas premissas
 slug: ultrapasse-tendencias
-lang: pt
+postLang: pt-BR
 ---
 
 Todo início de semana recebemos inúmeros posts dizendo quais serão as X tendências de TI para os próximos anos. É impressionante como, cada vez mais, **somos movidos por tendências**, muitas vezes deixando o presente em segundo plano.

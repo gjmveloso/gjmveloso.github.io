@@ -3,7 +3,7 @@ comments: true
 date: "2010-09-07T00:00:00Z"
 title: As Leis da Simplicidade
 slug: leis-da-simplicidade
-lang: pt
+postLang: pt-BR
 ---
 
 Hoje terminei de ler o pequeno e profundo livro ["As Leis da Simplicidade"](http://compare.buscape.com.br/as-leis-da-simplicidade-john-maeda-8599560093.html), de John Maeda.

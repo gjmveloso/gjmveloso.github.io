@@ -3,7 +3,7 @@ comments: true
 date: "2011-05-18T00:00:00Z"
 title: A hora é agora!
 slug: a-hora-e-agora
-lang: pt
+postLang: pt-BR
 ---
 
 Como alguns já podem ter visto no Twitter e no LinkedIn, essa semana marca, oficialmente, o início da minha jornada empreendedora.

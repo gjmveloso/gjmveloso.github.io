@@ -3,7 +3,7 @@ comments: true
 date: "2012-03-05T00:00:00Z"
 title: 'Chile: 2 meses e contando'
 slug: chile-2-meses-e-contando
-lang: pt
+postLang: pt-BR
 ---
 
 Hoje, exatamente, completo o segundo mês no Chile. Para os que não sabem, a [DeskMetrics](http://www.deskmetrics.com/) foi selecionada para participar do programa de aceleração de startups do governo chileno, o [Start-Up Chile](http://www.startupchile.org/) e mudamos todos, de mala e cuia, para a linda e fascinante Santiago.

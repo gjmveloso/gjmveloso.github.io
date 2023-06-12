@@ -3,7 +3,7 @@ comments: true
 date: "2012-02-17T00:00:00Z"
 title: A verdadeira vantagem competitiva do Facebook
 slug: o-jeito-hacker-facebook
-lang: pt
+postLang: pt-BR
 ---
 
 Nos últimos dias, o Facebook confirmou os rumores e [iniciou o processo para sua abertura de capital](http://online.wsj.com/article/SB10001424052970204879004577110780078310366.html). A notícia, prevista para o ano passado, não pegou ninguém de surpresa. Além disso, o possível _valuation_ entre __US$ 75 e US$ 100 bilhões__, também não é nada absurdo, se tratando da rede social com __845 milhões de usuários__ (dados de Dezembro de 2011) e faturamento na casa dos __US$ 4 bilhões anuais__.

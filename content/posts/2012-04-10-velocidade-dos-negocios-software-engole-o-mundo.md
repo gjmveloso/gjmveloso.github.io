@@ -3,7 +3,7 @@ comments: true
 date: "2012-04-10T00:00:00Z"
 title: A velocidade dos negócios na era em que o software engole o mundo
 slug: velocidade-dos-negocios-software-engole-o-mundo
-lang: pt
+postLang: pt-BR
 ---
 
 * __5 de março de 2010__: uma empresa chamada __Burbn__, fundada por Kevin Systrom e Mike Krieger, que prometia "uma nova forma de comunicação e compartilhamento no mundo real", recebe __$500 mil__ dólares de _seed money_.

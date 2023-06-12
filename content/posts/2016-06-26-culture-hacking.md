@@ -3,7 +3,7 @@ comments: true
 date: "2016-06-26T00:00:00Z"
 title: Hacking your (Engineering) Culture
 slug: culture-hacking
-lang: en
+postLang: en-US
 ---
 
 >"Culture eats Strategy for Breakfast" - [Peter Drucker](http://www.druckerinstitute.com/peter-druckers-life-and-legacy/)[^1]

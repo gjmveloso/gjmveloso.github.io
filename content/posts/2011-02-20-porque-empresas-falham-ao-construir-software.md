@@ -3,7 +3,7 @@ comments: true
 date: "2011-02-20T00:00:00Z"
 title: Por que muitas empresas falham ao construir software?
 slug: porque-empresas-falham-ao-construir-software
-lang: pt
+postLang: pt-BR
 ---
 
 Nunca estudei tanto sobre desenvolvimento de software como ultimamente. Tem a pós em Engenharia de Software que ensina o estado-da-arte dos anos 90 e todas as práticas adotadas pela maioria esmagadora das empresas de software tradicionais, tem os livros de desenvolvimento moderno (The Art of Lean Software Development, Making Software, etc.) e por último, e mais importante, o curso Welcome to the Django.

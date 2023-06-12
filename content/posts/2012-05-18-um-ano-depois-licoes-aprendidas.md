@@ -3,7 +3,7 @@ comments: true
 date: "2012-05-18T00:00:00Z"
 title: 'Um ano depois: Lições aprendidas depois do mergulho que está mudando minha vida'
 slug: um-ano-depois-licoes-aprendidas
-lang: pt
+postLang: pt-BR
 ---
 
 Este post já estava sendo pensado há quase 1 mês. O bom de escrever aqui tudo que acho importante na minha vida profissional é que fica fácil rastrear quando histórias passadas foram escritas e parar para uma retrospectiva.

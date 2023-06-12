@@ -3,7 +3,7 @@ comments: true
 date: "2012-12-28T00:00:00Z"
 title: Hacker News Effect Findings
 slug: hacker-news-effect-findings
-lang: en
+postLang: en-US
 ---
 
 After read the excellent blog post from Dan McKinley on his blog about [why MongoDB never worked out at Etsy giving us solid arguments about the difficulties on having more than one production database](http://mcfunley.com/why-mongodb-never-worked-out-at-etsy), Hackers News was [flooded](http://news.ycombinator.com/item?id=4969614) by [comments](http://news.ycombinator.com/item?id=4970420), great ones with brilliant usage insights and the usual haters gonna hate kind of comments. I just wanted to record what I thought at this moment and submitted it to Hacker News, never thinking on been featured on the first page of it for a few minutes.

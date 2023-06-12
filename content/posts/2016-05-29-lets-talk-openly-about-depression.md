@@ -3,7 +3,7 @@ comments: true
 date: "2016-05-29T00:00:00Z"
 title: Let's talk openly about depression
 slug: lets-talk-openly-about-depression
-lang: en
+postLang: en-US
 ---
 
 **3 months and 23 days ago** I was diagnosed with a [major depression disorder](https://en.wikipedia.org/wiki/Major_depressive_disorder) after months living with what I've thought it was just a _normal_, and not so _happy_, mood.

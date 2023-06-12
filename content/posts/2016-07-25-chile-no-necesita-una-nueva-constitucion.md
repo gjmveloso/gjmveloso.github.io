@@ -3,7 +3,7 @@ comments: true
 date: "2016-07-25T00:00:00Z"
 title: Carta abierta a los chilenos
 slug: chile-no-necesita-una-nueva-constitucion
-lang: es
+postLang: es-CL
 ---
 
 >El artículo está potencialmente escrito en _portuñol_

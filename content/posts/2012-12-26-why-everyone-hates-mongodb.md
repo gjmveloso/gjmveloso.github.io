@@ -3,7 +3,7 @@ comments: true
 date: "2012-12-26T00:00:00Z"
 title: Why Everyone Hates MongoDB?
 slug: why-everyone-hates-mongodb
-lang: en
+postLang: en-US
 ---
 
 ## Because almost everyone jumps into it thinking it is the Holy Grail or The Silver Bullet.

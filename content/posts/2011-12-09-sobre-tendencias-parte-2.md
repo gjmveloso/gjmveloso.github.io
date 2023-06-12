@@ -3,7 +3,7 @@ comments: true
 date: "2011-12-09T00:00:00Z"
 title: Sobre tendências, parte 2
 slug: sobre-tendencias-parte-2
-lang: pt
+postLang: pt-BR
 ---
 
 Há mais de um ano fiz um post bem mais ou menos sobre essa [mania que temos de ficar tentando adivinhar o futuro](/posts/2010/08/24/ultrapasse-tendencias), quase sempre nos esquecendo de premissas básicas. Eu mesmo, contraditoriamente, no final do ano passado, fiz uma [lista de previsões para este ano](/posts/2010/12/30/previsoes-2011), pura brincadeira.

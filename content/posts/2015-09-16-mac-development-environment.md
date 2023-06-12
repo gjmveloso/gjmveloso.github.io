@@ -3,7 +3,7 @@ comments: true
 date: "2015-09-16T00:00:00Z"
 title: Mac Development Environment
 slug: mac-development-environment
-lang: en
+postLang: en-US
 ---
 
 Last week I finally bought a new personal computer. My 2008's _Vostro_ computer was too old and its battery lasts for around 15 minutes unplugged. Since my complete move to Ubuntu on 2011 I was thinking about making the switch to a Mac computer when I got a chance.

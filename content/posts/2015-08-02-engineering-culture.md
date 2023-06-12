@@ -3,7 +3,7 @@ comments: true
 date: "2015-08-02T00:00:00Z"
 title: (Engineering) Culture
 slug: engineering-culture
-lang: en
+postLang: en-US
 ---
 
 >This post is followed by [Culture Hacking](/posts/2016/06/26/culture-hacking) post

@@ -3,7 +3,7 @@ comments: true
 date: "2012-12-20T00:00:00Z"
 title: Descobrindo o que importa
 slug: descobrindo-o-que-importa
-lang: pt
+postLang: pt-BR
 ---
 
 Que ano! Se tivesse sonhado com um ano perfeito profissional e pessoalmente certamente não conseguiria chegar nem perto do que o ano de 2012 representou pra mim. __Sou fundamentalmente grato às pessoas que possibilitam toda essa rica experiência, até aquelas que hoje estão distantes__.

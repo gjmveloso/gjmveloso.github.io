@@ -3,7 +3,7 @@ comments: true
 date: "2011-03-17T00:00:00Z"
 title: E se você fosse a sua empresa?
 slug: e-se-voce-fosse-sua-empresa
-lang: pt
+postLang: pt-BR
 ---
 
 Há quase quatro anos fui apresentado ao fascinante mundo do empreendedorismo. De lá para cá venho me debatendo na tentativa de mudar o _mindset_ de funcionário, dentre outros a aversão ao risco (financeiro, pessoal, etc). Não é fácil mudar, confesso.

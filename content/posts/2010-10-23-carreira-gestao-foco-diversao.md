@@ -3,7 +3,7 @@ comments: true
 date: "2010-10-23T00:00:00Z"
 title: 'Carreira: gestão, foco e diversão'
 slug: carreira-gestao-foco-diversao
-lang: pt
+postLang: pt-BR
 ---
 
 Mesmo antes de acabar, o ano de 2010 ficará na minha memória como o ano mais importante da minha vida profissional. Não, não alcancei o pico da minha carreira, não atingi um salário de 5 dígitos, na verdade ela mal começou.

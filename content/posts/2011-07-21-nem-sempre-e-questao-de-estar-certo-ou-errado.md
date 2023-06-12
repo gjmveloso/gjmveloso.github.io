@@ -3,7 +3,7 @@ comments: true
 date: "2011-07-21T00:00:00Z"
 title: Nem sempre é questão de estar certo ou errado
 slug: nem-sempre-e-questao-de-estar-certo-ou-errado
-lang: pt
+postLang: pt-BR
 ---
 
 Há tempos venho pensando sobre uma pergunta que passei a me fazer depois que decidi largar minha vida típica de funcionário: Será que a decisão que tomei foi entre o certo e o errado? Entre o legal e o chato?

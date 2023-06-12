@@ -3,7 +3,7 @@ comments: true
 date: "2011-04-14T00:00:00Z"
 title: Sobre comunidades
 slug: sobre-comunidades
-lang: pt
+postLang: pt-BR
 ---
 
 Durante o mês de fevereiro fiz um curso de Python e Django com o mestre [Henrique Bastos](http://twitter.com/henriquebastos). Mais do que aprender duas ferramentas fantásticas para desenvolvimento web e entender melhor algumas práticas ágeis até então não muito claras para minha cabeça, o curso me ensinou a **importância das comunidades**.
