@@ -83,7 +83,7 @@ posts = '/posts/:year/:month/:day/:slugorfilename'
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/gustavoveloso/"
+url = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=gustavoveloso"
 
 [[params.socialIcons]]
 name = "twitter"
